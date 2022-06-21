@@ -1,0 +1,50 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+}
+header{
+    background: linear-gradient(90deg, rgb(71, 3, 102), rgb(230, 106, 182) ,rgb(235, 115, 199));
+    margin: auto;
+    padding: 16px;
+}
+.parrafo{
+    display: inline-block;
+    width: 400px;
+    color: rgb(255,255,255);
+}
+.parrafo-2{
+    color: rgb(255,255,255);
+}
+.parrafo2{
+    padding: 10px ;
+    background-color: rgb(250, 219, 248) ;
+}
+h3{
+    font-size: 36px;
+    font-weight: bold;
+}
+.Estudios{
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom:12px;
+    margin-top:36px;
+}
+dd{
+    margin: 0px;
+}
+seccion-educacion{
+    margin-top: 70px;
+    width: 68%;
+    display: inline-block;
+}
+ul{
+    margin-top:12px;
+    padding: 0;
+}
+img{
+    width: 300px;
+}
+.div-imagen{
+    display: inline-block;
+    width: 30%;
+    margin-top: 20px;
+}
